@@ -1,8 +1,8 @@
 [
 	{
 		"remote":"github",
-		"repository":"TeamWin/android_kernel_samsung_universal9810",
+		"repository":"synt4x93/android_kernel_samsung_universal9810-crown",
 		"target_path":"kernel/samsung/universal9810",
-		"revision":"android-8.1"
+		"revision":"lineage-16.0"
 	}
 ]
